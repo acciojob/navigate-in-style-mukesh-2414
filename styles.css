@@ -2,6 +2,7 @@
 .b1{
 	background-color:#D3D3D3;
 	padding:10px;
+	display:flex;
 }
 .b2 li{
 	display:inline;
