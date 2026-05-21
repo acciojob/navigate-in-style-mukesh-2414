@@ -1,13 +1,15 @@
 /*  your css code here. If applicable */
 .b1{
 	background-color:#D3D3D3;
-	padding:10px;
-	display:flex;
-	
+	padding:10px;	
 }
-.b2 li{
+.b2{
+	margin:0px;
 	padding:10px;
 	display:inline;
-	margin-right:1rem;
 	list-style:none;
+}
+.b2 li{
+	margin-right:1rem;
+	display:inline;
 }
