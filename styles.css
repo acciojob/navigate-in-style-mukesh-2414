@@ -1,6 +1,7 @@
 .container {
-  background-color: rgb(211, 211, 211);
+  background-color: #D3D3D3;
   padding: 10px;
+	display:flex;
 }
 
 .nav-list {
