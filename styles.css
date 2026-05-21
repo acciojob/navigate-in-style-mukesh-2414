@@ -1,7 +1,7 @@
 .container {
   background-color: #D3D3D3;
   padding: 10px;
-	display:flex;
+	
 }
 
 .nav-list {
@@ -11,7 +11,7 @@
 }
 
 .nav-list li {
-  display:inline;
+  display:flex;
 
   margin-right: 1rem;
 }
