@@ -5,11 +5,12 @@
 }
 .b2{
 	margin:0px;
-	padding:10px;
-	display:inline;
+	padding:0px;
+	
 	list-style:none;
 }
 .b2 li{
 	margin-right:1rem;
 	display:inline;
+	
 }
